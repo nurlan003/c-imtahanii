@@ -1,0 +1,50 @@
+[
+  {
+    "ID": "2fdea949-2cd4-4dc1-b2a4-f2985b6e5bc9",
+    "Username": "Nurlan003",
+    "Password": "12345678",
+    "name": "Nurlan",
+    "surname": "Cavadzade",
+    "sheher": "Baku",
+    "phone": "0775885115",
+    "age": "23",
+    "vacancies": [],
+    "Notification": []
+  },
+  {
+    "ID": "2fdea949-2cd4-4dc1-b2a4-f2985b6e5bc9",
+    "Username": "Nurlan003",
+    "Password": "12345678",
+    "name": "Nurlan",
+    "surname": "Cavadzade",
+    "sheher": "Baku",
+    "phone": "0775885115",
+    "age": "23",
+    "vacancies": [],
+    "Notification": []
+  },
+  {
+    "ID": "51f573f2-bd5c-4ec4-8864-e57290ce4d69",
+    "Username": "a",
+    "Password": "sa",
+    "name": "",
+    "surname": "as",
+    "sheher": "a",
+    "phone": "sa",
+    "age": "s",
+    "vacancies": [],
+    "Notification": []
+  },
+  {
+    "ID": "29059805-7f2b-4d71-b150-b9b69c659e4c",
+    "Username": "h",
+    "Password": "",
+    "name": "a",
+    "surname": "s",
+    "sheher": "sd",
+    "phone": "f",
+    "age": "",
+    "vacancies": [],
+    "Notification": []
+  }
+]
